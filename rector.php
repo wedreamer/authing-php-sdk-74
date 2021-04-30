@@ -33,7 +33,7 @@ return static function (ContainerConfigurator $containerConfigurator): void {
     ]);
 
     // is your PHP version different from the one your refactor to? [default: your PHP version]
-    $parameters->set(Option::PHP_VERSION_FEATURES, PhpVersion::PHP_73);
+    // $parameters->set(Option::PHP_VERSION_FEATURES, PhpVersion::PHP_73);
 
     // get services (needed for register a single rule)
     // $services = $containerConfigurator->services();

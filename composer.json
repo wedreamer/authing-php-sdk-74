@@ -1,10 +1,10 @@
 {
-  "name": "authing-sdk/php-72",
+  "name": "authing-sdk/php-74",
   "description": "authing-php-sdk",
   "minimum-stability": "stable",
   "version": "4.1.13",
   "require": {
-    "php": ">=5.4",
+    "php": ">=7.4",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
