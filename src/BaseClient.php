@@ -30,7 +30,7 @@ abstract class BaseClient
 
     private $_type = "SDK";
 
-    private $_version = "php:4.1.12";
+    private $_version = "php:4.1.14";
 
     private $_accessTokenExpriredAt;
 
